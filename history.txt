@@ -1,0 +1,500 @@
+   65  cd
+   66  source sdcardbooks.sh
+   67  cd storage/downloads
+   68  ls
+   69  ls
+   70  cd umuzi-challenge/
+   71  ls
+   72  less challenge6.js 
+   73  less challenge5.js 
+   74  cd
+   75  ls
+   76  cd mimikatz-master/
+   77  ls
+   78  cd mimilib/
+   79  ls
+   80  less ksub.h
+   81  emacs kssp.c
+   82  cd ..
+   83  ld
+   84  ls
+   85  less README.md 
+   86  less kiwi_passwords.yar 
+   87  cd
+   88  ls
+   89  cd jstdg7/
+   90  ls
+   91  cd ch08/
+   92  ls
+   93  emacs factorial.js 
+   94  node factorial.js 
+   95  emacs factorial.js 
+   96  node factorial.js 
+   97  cat factorial.js 
+   98  cat -h
+   99  cat --help
+  100  cat factorial.js 
+  101  pkg list-all
+  102  cd
+  103  ps
+  104  ls
+  105  sed -i s/69/70/ sdcardbooks.sh
+  106  less sdcardbooks.sh
+  107  source sdcardbooks.sh
+  108  cd storage/downloads
+  109  ls
+  110  mv 'A history of my times (Hellenica) by Warner, RexXenophon.Cawkwell, George (z-lib.org).mobi' /storage/sdcard0/booker70/
+  111  ls
+  112  cd/storage/sdcard0/booker70/
+  113  cd  /storage/sdcard0/booker70/
+  114  ls
+  115  wc -l
+  116  wc -l .
+  117  pwd
+  118  find /storage/sdcard0/ -iname "*penrose*"
+  119  find /storage/sdcard0/ -iname "*heath*"
+  120  find /storage/sdcard0/ -iname "*physics*"
+  121  find /storage/sdcard0/ -iname "*physics*" -exec du -h {} +;
+  122  emacs ftpcracker.py
+  123  cd /storage/sdcard0/booker70/
+  124  nl
+  125  nl .
+  126  ls | wv -l
+  127  ls | wc -l
+  128  source sdcardbooks.sh
+  129  pkg search python
+  130  pkg list-all
+  131  source sdcardbooks.sh
+  132  cd
+  133  sed -i s/pdf/djvu/ sdcardbooks.sh
+  134  source sdcardbooks.sh
+  135  sed -i s/djvu/pdf/  sdcardbooks.sh
+  136  less sdcardbooks.sh
+  137  find /storage/sdcard0/ -iname "*portuguese*"
+  138  cd
+  139  source sdcardbooks.sh
+  140  cd storage/downloads
+  141  ls
+  142  cd
+  143  ip -a
+  144  ip a
+  145  man sethostent 
+  146  man inet
+  147  node
+  148  node
+  149  node
+  150  node
+  151  node
+  152  node
+  153  node
+  154  node
+  155  node
+  156  node
+  157  cd
+  158  source sdcardbooks.sh
+  159  cal -n2
+  160  node
+  161  ls
+  162  less shuffleArray.js 
+  163  cal
+  164  cal -n 2
+  165  cal -n1
+  166  cal -n1
+  167  cal -n2
+  168  cal -n2
+  169  cal -n3
+  170  cal -n4
+  171  cal -n4
+  172  cal 
+  173  cal -n4
+  174  cal -n2
+  175  cal -n2
+  176  cal -n4
+  177  node
+  178  ls
+  179  ps
+  180  node
+  181  cd jstdg7/
+  182  cd ch08/
+  183  ls
+  184  less timed.js 
+  185  node timed.js 
+  186  node timed.js 
+  187  node timed.js 
+  188  node timed.js 
+  189  node timed.js 
+  190  node timed.js 
+  191  emacs timed.js 
+  192  man mount
+  193  pkg list-all
+  194  less sdcardbooks.sh
+  195  ls /storage/sdcard0/booker70/
+  196  ls /storage/sdcard0/booker70/ | wc -l
+  197  source sdcardbooks.sh
+  198  pkg install gh
+  199  gh
+  200  gh auth
+  201  gh login
+  202  gh auth
+  203  gh auth login
+  204  gh auth login
+  205  gh
+  206  gh --help
+  207  gh repo
+  208  gh repo view
+  209  gh repo view --web
+  210  gh status
+  211  gh alias
+  212  gh config
+  213  find /storage/sdcard0/ -iname "*git*"
+  214  find /storage/sdcard0/ -iname "*git*" -a -iname "*.pdf"
+  215  source sdcardbooks.sh
+  216  cal
+  217  ls
+  218  cd umuzi-challenge/
+  219  ls
+  220  cd node_modules/
+  221  ls
+  222  cd cycle/
+  223  ls
+  224  less README.md 
+  225  cd ..
+  226  cd read/
+  227  ls
+  228  less README.md 
+  229  cd lib/
+  230  ls
+  231  cd ..
+  232  pwd
+  233  cd ..
+  234  ls
+  235  cd
+  236  ls
+  237  cal
+  238  cal -n3
+  239  pkg list-all
+  240  pkg list-all | grep  upgradable
+  241  pkg list-all | grep  upgradable | wc -l
+  242  df -h /sdcard/
+  243  sed -i s/70/71/ sdcardbooks.sh
+  244  less sdcardbooks.sh
+  245  source sdcardbooks.sh
+  246  ls /storage/sdcard0/booker71/ | wc -l
+  247  cd storage/downloads
+  248  ls
+  249  cd /storage/sdcard0/booker71/ ; ls
+  250  find /storage/sdcard0/ -iname "*penrose*"
+  251  ls
+  252  echo $((200%60))
+  253  ls  storage/downloads
+  254  ls /storage/sdcard0/booker71/ | wc -l
+  255  source sdcardbooks.sh
+  256  ls /storage/sdcard0/booker71/ | wc -l
+  257  ls  storage/downloads
+  258  sed -i  s/pdf/azw3/ sdcardbooks.sh
+  259  source sdcardbooks.sh
+  260  ls /storage/sdcard0/booker71/ | wc -l
+  261  sed -i  s/azw3/pdf/ sdcardbooks.sh
+  262  less sdcardbooks.sh
+  263  ls
+  264  node
+  265  find /storage/sdcard0/ -iname "*kock*"
+  266  emacs bb.text
+  267  rm bb.text 
+  268  git clone https://github.com/TheMaja/hellp-world.git
+  269  ls
+  270  cd hellp-world/
+  271  ls
+  272  less README.md 
+  273  gh
+  274  gh repo view
+  275  gh repo
+  276  gh repo view --web
+  277  gh status
+  278  gh auth
+  279  gh auth status
+  280  gh
+  281  gh repo
+  282  gh repo view
+  283  gh repo view --web
+  284  gh repo view 
+  285  gh repo 
+  286  gh repo clone
+  287  gh repo view 
+  288  gh -help
+  289  gh repo clone cli
+  290  gh repo
+  291  find /storage/sdcard0/ -iname "*mpho*"
+  292  find /storage/sdcard0/ -iname "*cv*"
+  293  find /storage/sdcard0/ -iname "*tshuping*"
+  294  find /storage/sdcard0/ -iname "*tshuping*" -exec rm {} +;
+  295  find /storage/sdcard0/ -iname "*tshuping*"
+  296  find /storage/sdcard0/ -iname "*cv*"
+  297  less sdcardbooks.sh
+  298  ls /storage/sdcard0/booker71/
+  299  source sdcardbooks.sh
+  300  df -sh /sdcard/
+  301  df -h /sdcard/
+  302  df -h /sdcard/
+  303  df -h /sdcard/
+  304  cd /sdcard/
+  305  ls
+  306  cd download/
+  307  ls
+  308  cd
+  309  cd /sdcard/
+  310  ls
+  311  cd Pictures/
+  312  ls
+  313  cd Twitter/
+  314  ls
+  315  pwd
+  316  du -sh .
+  317  cd ..
+  318  ls
+  319  du -sh .
+  320  du -sh Twitter/
+  321  cd ..
+  322  ls
+  323  cd Download/
+  324  ls
+  325  cd ..
+  326  ls
+  327  cd DCIM/
+  328  ls
+  329  du -sh .
+  330  du -sh 100ANDRO/
+  331  du -sh Camera/
+  332  cd ..
+  333  ls
+  334  cd Books/
+  335  ls
+  336  du -sh MoonReader/
+  337  du -sh .MoonReader/
+  338  cd ..
+  339  ls
+  340  cd Movies/
+  341  ls
+  342  cd ..
+  343  ls
+  344  cd Music/
+  345  ls
+  346  cd ..
+  347  ls
+  348  ls
+  349  du -sh Android/
+  350  ls -a
+  351  cd Android/
+  352  ls
+  353  cd data/
+  354  ls
+  355  du -sh com.flyersoft.moonreader/
+  356  df -h /sdcard/
+  357  df -h /sdcard/
+  358  df -h /sdcard/
+  359  df -h /sdcard/
+  360  mkdir git-basic-exercises
+  361  cd git-basic-exercises/
+  362  ls -a
+  363  git init
+  364  ls -a
+  365  cd .git/
+  366  ls
+  367  cd ..
+  368  ls -a
+  369  pwd
+  370  git status
+  371  touch README.md
+  372  ls -a
+  373  git status
+  374  git log
+  375  git add README.md 
+  376  git status
+  377  gut rm --cached README.md 
+  378  git rm --cached README.md 
+  379  git status
+  380  ls -a
+  381  git add README.md 
+  382  git commit -m "initial commit"
+  383  git config --global use.name TheMaja
+  384  git status
+  385  git commit -m "initial commit"
+  386  git config --global use.email majawonke@gmail.com
+  387  git commit -m "initial commit"
+  388  git config  use.email majawonke
+  389  git config --global user.email majawonke@gmail.com
+  390  git config --global user.name TheMaja
+  391  git commit -m "initial commit"
+  392  git log
+  393  echo "my first commit" > README.md 
+  394  less README.md 
+  395  git stats
+  396  git status
+  397  git add README.md 
+  398  git commit -m "second commit"
+  399  git status
+  400  git log
+  401  echo "README.md" >> README.md 
+  402  less README.md 
+  403  git add README.md 
+  404  status
+  405  git status 
+  406  git commit -m "third commit"
+  407  git log
+  408  emacs README.md 
+  409  git status 
+  410  git add README.md 
+  411  git status 
+  412  git commit -m "forth commit"
+  413  git log
+  414  git status 
+  415  git checkout bedcd905518eb95b173ee66da89d8fc15ee26cb8
+  416  ls
+  417  pwd
+  418  less README.md 
+  419  git checkout master 
+  420  less README.md 
+  421  git branch 
+  422  git branch  milkshake-flavour
+  423  git branch 
+  424  git branch 
+  425  git branch 
+  426  git branch 
+  427  git branch  milkshake-flavour
+  428  git branch 
+  429  git branch .
+  430  git branch 
+  431  git branch 
+  432  git branch
+  433  git branch
+  434  git branch
+  435  ls
+  436  pwd
+  437  git branch 
+  438  git switch -c milkshake-flavour 
+  439  git branch 
+  440  git switch  milkshake-flavour 
+  441  git branch 
+  442  ls
+  443  pwd
+  444  git branch 
+  445  emacs README.md 
+  446  git status 
+  447  git add README.md 
+  448  git commit -m "flavours"
+  449  git status 
+  450  git log
+  451  git switch master 
+  452  less README.md 
+  453  git log
+  454  git branch history
+  455  git branch 
+  456  git switch history 
+  457  git log
+  458  history > history.txt
+  459  less history.txt 
+  460  git status 
+  461  git add history.txt 
+  462  git commit -m "added history"
+  463  git log
+  464  git branch 
+  465  git switch milkshake-flavour 
+  466  git log
+  467  git branch 
+  468  git checkout master 
+  469  git branch 
+  470  ls
+  471  git merge milkshake-flavour 
+  472  less README.md 
+  473  git branch 
+  474  git merge history 
+  475  ls
+  476  git branch 
+  477  pwd
+  478  git remote add origin https://github.com/TheMaja/git-basic-exercises.git
+  479  git branch -M main
+  480  git push -u origin main
+  481  git remote add origin https://github.com/TheMaja/git-basic-exercises.git
+  482  git branch -M main
+  483  git push -u origin main
+  484  git remote add origin https://github.com/TheMaja/git-basic-exercises.git
+  485  git branch -M main
+  486  git push -u origin main
+  487  git branch 
+  488  git checkout milkshake-flavour 
+  489  git remote add origin https://github.com/TheMaja/git-basic-exercises.git
+  490  git branch -M main
+  491  git push -u origin main
+  492  git push --help
+  493  git branch 
+  494  git switch history 
+  495  git push -u origin history 
+  496  git status 
+  497  git branch
+  498  git push history
+  499  df -h /sdcard/
+  500  ls
+  501  history
+  502  ls
+  503  rm -r git-basic-exercises/
+  504  rm -fr git-basic-exercises/
+  505  ls
+  506  ls | grep git
+  507  mkdir git-basic-exercises
+  508  cd git-basic-exercises/
+  509  ls -a
+  510  git init
+  511  ls -a
+  512  ls -a
+  513  git status
+  514  touch README.md
+  515  ls -a
+  516  git status
+  517  git log
+  518  git add README.md
+  519  git status
+  520  git rm --cached README.md 
+  521  git status
+  522  git add README.md
+  523  git commit -m "initial commit"
+  524  git log
+  525  emacs README.md 
+  526  cat README.md 
+  527  git status
+  528  git add README.md
+  529  git status
+  530  git commit -m "second commit"
+  531  emacs README.md 
+  532  cat README.md 
+  533  emacs README.md 
+  534  cat README.md 
+  535  emacs README.md 
+  536  git status
+  537  git add README.md
+  538  git status
+  539  git commit -m "third commit"
+  540  git log
+  541  git checkout  ac74c420e6a7d9077afeba23ffcd9b857468cde
+  542  cat README.md 
+  543  git checkout master 
+  544  cat README.md 
+  545  git branch
+  546  git branch milkshake-flavours
+  547  git branch
+  548  git checkout milkshake-flavours 
+  549  git branch 
+  550  emacs  milkshakes.md
+  551  git status
+  552  git add milkshakes.md 
+  553  git commit -m  "added initial flavours
+  554  git commit -m  "added initial flavours"
+  555  git log
+  556  git checkout master 
+  557  git log
+  558  git branch history
+  559  git log
+  560  git branch 
+  561  git checkout history 
+  562  git log
+  563  git branch 
+  564  history > history.txt
